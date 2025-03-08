@@ -48,5 +48,3 @@ export default withSentryConfig(nextConfig, {
 );
 
 
-
-// SENTRY_AUTH_TOKEN=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
